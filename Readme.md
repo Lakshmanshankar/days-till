@@ -22,7 +22,7 @@ yarn add @Lakshmanshankar/days-till
 var daystill=require(".@lakshmanshankar/daystill")
 //Date You want to calculate the Days
 
-let DaysTill=new DaysTill(Date,Month,Year)
+let DaysTill=new Daystill(Date,Month,Year)
 //example let DaysTill=new DaysTill(12,12,2032)
 
 let Count=DaysTill.CountDays()
