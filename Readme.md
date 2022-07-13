@@ -19,7 +19,7 @@ yarn add @Lakshmanshankar/days-till
 
 # Demo
 ```js
-var daystill=require("./dist/daystill")
+var daystill=require(".@lakshmanshankar/daystill")
 //Date You want to calculate the Days
 
 let DaysTill=new DaysTill(Date,Month,Year)
